@@ -56,7 +56,7 @@
     "typescript": "^4.0.3"
   },
   "dependencies": {
-    "bindings": "^1.5.0",
+    "bindings": "git://github.com/pverscha/node-bindings.git#606dad212c2abc4e2fc4d1e1acd43d6f4066341d",
     "compare-versions": "^3.6.0",
     "debug": "^4.1.1",
     "dot": "^1.1.3",
